@@ -1,7 +1,7 @@
  <div align="center">
    <img width="256" height="256" alt="logo_DARK_CLEAN" src="https://github.com/user-attachments/assets/c119df40-bed2-42e0-9ce6-a53d74b6b5df" />
    <p><h3>The Website</h3></p>
-   <p>Nosso portfólio e portal de inscrição</p>
+   <p>Nosso portfólio e portal de inscrição.</p>
  </div>
 
 ---
