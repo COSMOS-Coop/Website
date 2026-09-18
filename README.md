@@ -19,7 +19,7 @@
 ### Tarefas
 
 - [x] Esqueleto do projeto
-- [ ] Configurar deploy do worker
+- [x] Configurar deploy do worker
 - [ ] Mockup da landing page
 - [ ] Mockup do forms de inscrição
 - [ ] Definir API para comunicação com o worker
